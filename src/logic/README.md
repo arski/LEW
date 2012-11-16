@@ -1,5 +1,3 @@
-Language Evolution Workbench
-
 This is a quick starting guide for the Language Evolution Workbench.
 
 The LEW is meant to simulate the evolution of a lexicon in a population of artificial agents that know very little about the world and even less about language.
